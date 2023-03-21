@@ -8,7 +8,7 @@
 
 ## :house: Sobre o projeto
 
-Projeto em que podemos converter Real em dolar, Euro e Bitcoin.
+Projeto em que podemos converter Real em dolar, Euro e Bitcoin. Valor das moedas estão sempre em tempo real, utulizando uma API
 <br>
 
 ## :computer: Tecnologias
